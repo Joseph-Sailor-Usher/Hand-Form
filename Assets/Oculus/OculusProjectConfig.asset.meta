@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78bdf13a4ca1b0a43ae0a9e7965fca08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 51.0
+  assetPath: Assets/Oculus/OculusProjectConfig.asset
+  uploadId: 578042

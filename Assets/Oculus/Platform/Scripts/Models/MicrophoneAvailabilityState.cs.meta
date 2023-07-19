@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ae16c0fccfd04be4db24e35eff0c0445
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 51.0
+  assetPath: Assets/Oculus/Platform/Scripts/Models/MicrophoneAvailabilityState.cs
+  uploadId: 578042

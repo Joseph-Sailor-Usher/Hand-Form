@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cff80e9fd915fc041a224d9d2f196171
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 51.0
+  assetPath: Assets/Oculus/Platform/Scripts/Models/PartyUpdateNotification.cs
+  uploadId: 578042

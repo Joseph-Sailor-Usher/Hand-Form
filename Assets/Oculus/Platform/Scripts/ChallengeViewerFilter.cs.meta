@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e1f5212fe14e9894ba6caef586d56a09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 51.0
+  assetPath: Assets/Oculus/Platform/Scripts/ChallengeViewerFilter.cs
+  uploadId: 578042
