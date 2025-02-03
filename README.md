@@ -11,7 +11,7 @@ Hand Draw is an innovative augmented reality (AR) application developed using Un
 - **Custom Marching Cubes Implementation:** Experience seamless and detailed modeling via an optimized Marching Cubes implementation.
 - **Unity 3D Integration:** Built on the powerful Unity 3D platform, ensuring a high-quality AR experience.
 - **Meta Oculus All-In-One hand tracking integration
-- 
+
 ## How It Works
 
 Hand Draw uses the Meta XR All-in-One SDK to track the user's hand movements, translating pinches and movements into actions that manipulate the virtual material. This material expands and shapes into 3D models based on the user's gestures, offering an intuitive and natural way to create and interact with virtual objects.
